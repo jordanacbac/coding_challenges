@@ -5,3 +5,4 @@
 * 1122 Account Book (Java 8)
 * 1228 Start Grid (Python 3)
 * 1251 Tell me the Frequencies! (Java 8)
+* 1259 Even and Odd (Java 8)
