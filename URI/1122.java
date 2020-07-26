@@ -12,7 +12,7 @@ public class Main {
 	static boolean[] neg;
 	static Map<String, Boolean> mapa;
 
-	static public boolean executar(int i, int soma) {
+	public static boolean executar(int i, int soma) {
 		if (i >= N && soma == F) {
 			return true;
 		} else if (i >= N) {
