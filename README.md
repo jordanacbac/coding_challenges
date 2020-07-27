@@ -7,3 +7,4 @@
 * 1251 Tell me the Frequencies! (Java 8)
 * 1259 Even and Odd (Java 8)
 * 1260 Hardwood Species (Java 8)
+* 1525 Gruntz (Java 8)
